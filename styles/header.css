@@ -25,7 +25,7 @@ body {
     text-decoration: none;
 }
 
-.header__nav a:hover{
+.header__nav a:hover {
     color: gray;
 }
 
@@ -45,13 +45,29 @@ body {
     text-align: center;
 }
 
-.header__texts-title{
+.header__texts-title {
     font-size: 80px;
-    font-family: RobotoM, sans-serif;    
+    font-family: RobotoM, sans-serif;
 }
 
 .header__texts-subtitle {
     font-size: 20px;
     font-family: RobotoL, sans-serif;
     margin-top: 17px;
+}
+
+.header__buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.header__first-button {
+    margin-right: 35px;
+}
+
+.header__image{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
 }
