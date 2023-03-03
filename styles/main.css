@@ -18,6 +18,7 @@
 
 .main__subtitle {
     width: 40%;
+    text-align: center;
     margin-top: 27px;
     font-size: 20px;
 }
@@ -25,5 +26,9 @@
 .main__image{
     margin-top: 80px;
     display: flex;
+}
 
+.main__image ul li {
+    list-style-type: none;
+    
 }
