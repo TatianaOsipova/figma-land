@@ -5,8 +5,25 @@
     color: white;
 }
 
-.main__title {
-    margin-top: 162px;
+.main__title,
+.main__subtitle{
+    margin-bottom: 0;
+    font-family: RobotoL, sans-serif;
 }
 
-.main__subtitle {}
+.main__title {
+    margin-top: 162px;    
+    font-size: 62px;    
+}
+
+.main__subtitle {
+    width: 40%;
+    margin-top: 27px;
+    font-size: 20px;
+}
+
+.main__image{
+    margin-top: 80px;
+    display: flex;
+
+}
