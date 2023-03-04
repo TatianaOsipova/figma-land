@@ -74,7 +74,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    height: 630px;
+    height: 500px;
     background: white;
     border-radius: 10px;
     padding: 40px 35px;
@@ -90,7 +90,7 @@
 
 .main__card h5 {
     margin: 0;
-    /* margin-top: 30px; */
+    margin-top: 30px;
     color: #5c5c5c;
     font-family: RobotoL, sans-serif;
     line-height: 24px;
@@ -98,24 +98,8 @@
     width: 270px;
 }
 
-/* .main__card button{
-    margin-top: 65px;
-}
-
-.main__card img{
-    margin-top: 50px;
-} */
-
-.first__card{
+.first__card {
     margin-right: 33px;
 }
-
-
-
-
-
-
-
-
 
 /* styling section content end */
