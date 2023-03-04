@@ -107,6 +107,15 @@
 
 /* styling section gallery start */
 
+.gallery__first-row,
+.gallery__second-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 44px;
+
+}
+
 
 
 /* styling section gallery end */
