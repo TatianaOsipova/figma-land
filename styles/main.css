@@ -67,23 +67,17 @@
     margin-top: 44px;
     display: flex;
     justify-content: center;
-
-
 }
-
-.main__title {}
-
-.main__subtitle {}
-
-.main__cards {}
 
 .main__card {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-between;
+    height: 630px;
     background: white;
     border-radius: 10px;
-    padding-top: 40px 35px;
+    padding: 40px 35px;
 }
 
 .main__card h1 {
@@ -96,23 +90,28 @@
 
 .main__card h5 {
     margin: 0;
-    margin-top: 30px;
+    /* margin-top: 30px; */
     color: #5c5c5c;
     font-family: RobotoL, sans-serif;
+    line-height: 24px;
     text-align: center;
     width: 270px;
 }
 
-.main__card button{
+/* .main__card button{
     margin-top: 65px;
 }
 
 .main__card img{
     margin-top: 50px;
+} */
+
+.first__card{
+    margin-right: 33px;
 }
 
 
-.primary {}
+
 
 
 
