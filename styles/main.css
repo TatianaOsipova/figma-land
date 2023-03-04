@@ -122,4 +122,15 @@
 
 /* styling section parthers start */
 
+.partners__images{
+    margin-left: 74px;
+}
+
+.partners__images img{
+    margin-right: 74px;
+    margin-bottom: 54px;
+    margin-top: 54px;
+}
+
+
 /* styling section parthers end */
