@@ -1,7 +1,7 @@
 /* styling section features start */
 
 .main__features,
-.main__content { 
+.main__content {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -70,20 +70,40 @@
 
 
 }
-.main__title {
-}
-.main__subtitle {
-}
-.main__cards {
-}
+
+.main__title {}
+
+.main__subtitle {}
+
+.main__cards {}
+
 .main__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background: white;
     border-radius: 10px;
     padding-top: 40px 35px;
+}
 
+.main__card h1 {
+    margin: 0;
+    color: black;
+    font-size: 20px;
+    font-family: RobotoM, sans-serif;
+    text-align: center;
 }
-.primary {
+
+.main__card h5 {
+    margin: 0;
+    color: #5c5c5c;
+    font-family: RobotoL, sans-serif;
+    text-align: center;
+    width: 270px;
 }
+
+
+.primary {}
 
 
 
