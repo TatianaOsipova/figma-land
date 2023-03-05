@@ -137,9 +137,12 @@
 
 /* styling section testimonials start */
 
-main__testimonials{
+.testimonials{
     margin-top: 50px;
     height: 650px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 /* styling section testimonials end */
