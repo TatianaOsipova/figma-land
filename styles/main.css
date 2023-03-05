@@ -115,7 +115,7 @@
     gap: 33px;
 }
 
-.gallery__second-row  {
+.gallery__second-row {
     margin-bottom: 44px;
 }
 
@@ -123,11 +123,11 @@
 
 /* styling section parthers start */
 
-.partners__images{
+.partners__images {
     margin-left: 74px;
 }
 
-.partners__images img{
+.partners__images img {
     margin-right: 74px;
     margin-bottom: 54px;
     margin-top: 54px;
@@ -137,12 +137,15 @@
 
 /* styling section testimonials start */
 
-.testimonials{
+.testimonials {
     margin-top: 50px;
     height: 650px;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    align-content: center;
     flex-wrap: wrap;
+    gap: 23px;
 }
 
 .testimonial {
@@ -157,8 +160,8 @@
     margin-bottom: 30px;
 }
 
-.testimonial__title img{
-    margin-right: 23px;    
+.testimonial__title img {
+    margin-right: 23px;
 }
 
 .testimonial__name,
