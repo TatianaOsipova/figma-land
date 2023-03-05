@@ -1,0 +1,17 @@
+.footer{
+    margin-top: 150px;
+    padding: 107px 0;
+
+}
+
+.footer__links{
+    display: flex;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
