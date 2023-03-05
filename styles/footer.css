@@ -1,7 +1,7 @@
 .footer{
+    display: flex;
     margin-top: 150px;
     padding: 107px 0;
-
 }
 
 .footer__links{
@@ -11,7 +11,27 @@
 .links{
     display: flex;
     flex-direction: column;
+    margin-right: 75px;
 }
 
+.link__title {
+    font-size: 20px;
+    font-family: RobotoM, sans-serif;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 40px;
+
+}
+
+.links a{
+    text-decoration: none;
+    font-family: RobotoM, sans-serif;
+    color: white;
+    margin-bottom: 19px;
+}
+
+.links a:hover{
+    color: grey;
+}
 
 
