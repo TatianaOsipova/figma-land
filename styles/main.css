@@ -3,7 +3,8 @@
 .main__features,
 .main__content,
 .main__gallery,
-.main__partners {
+.main__partners,
+.main__testimonials {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -132,5 +133,13 @@
     margin-top: 54px;
 }
 
-
 /* styling section parthers end */
+
+/* styling section testimonials start */
+
+main__testimonials{
+    margin-top: 50px;
+    height: 650px;
+}
+
+/* styling section testimonials end */
